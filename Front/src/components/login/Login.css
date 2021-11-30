@@ -1,0 +1,16 @@
+.maimLogin{
+    padding-bottom: 7% !important;
+}
+.imgLogoInLogin{
+    padding-top: 1% !important;
+}
+.titreLogin{
+    margin-top: 3%;
+    color: #001829;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:26px;
+}
+.baliseLink{
+    color: #001829;
+}

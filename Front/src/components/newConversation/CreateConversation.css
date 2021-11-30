@@ -1,0 +1,39 @@
+.main-modal , .footer-modal{
+    background-color: #e9ebeb !important;
+}
+
+.inputCheckbox{
+    margin-top: 1.6em !important;
+}
+.entete-modal{
+background-color: #001829;
+color: white;
+}
+.btn-close-modal{
+    background-color: #001829;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+.icon-close{
+    color: white;
+}
+.divSearch{
+    background-color: white;
+    border-radius: 9px;
+}
+.inputSearch{
+    border:none;
+    padding-left: 40px;
+}
+.inputSearch:focus{
+    outline: none;
+}
+.btn-new-group{
+    background-color: #2B4141 !important;
+    color: white !important;
+}
+
+.iconUserModal {
+    color: #2B4141; 
+    padding-right: 20px;
+}

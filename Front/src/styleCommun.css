@@ -1,0 +1,44 @@
+.main{
+    text-align: center; 
+}
+.imgLogo{
+    text-align: center;
+    padding-top: 3%;
+}
+.linklogo>img{
+    height: 150px ;
+}
+.divBtn{
+    display: flex;
+    flex-direction: column;
+}
+.divBtn>button{
+    margin: 3% !important;
+    padding: 3% !important;
+    border-radius: 10px !important;
+    background-color: #2B4141;
+    font-size: 24px;
+    border: none;
+    color: white; 
+}
+.divBtn>button:focus {
+     outline:none 
+}
+
+.BtnLink{
+    color: white !important;
+    text-decoration: none;
+}
+
+ @media (min-width: 768px) {
+    .divBtn{
+        margin: auto;
+        width: 25%;
+    }
+}
+/* @media (max-width: 766px) {
+    .divBtn{
+        margin: auto;
+        width: 50%;
+    }
+} */
